@@ -1,5 +1,3 @@
-import React from "react";
-
 const PageLayout = ({ header, footer, children }) => {
 	return (
 		<>
@@ -9,5 +7,3 @@ const PageLayout = ({ header, footer, children }) => {
 		</>
 	);
 };
-
-export default PageLayout;
